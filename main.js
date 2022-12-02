@@ -21,6 +21,6 @@ sentence = "  hello  hey  "
 // const word = prompt.question("Input a word, please!: ");
 // console.log(myUtils.countWords(word))
 
-console.log(myUtils.trim(sentence).length == sentence.trim().length)
+console.log(myUtils.trim(sentence))
 
 
